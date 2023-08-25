@@ -32,7 +32,7 @@ body {
 }
 
 a {
-	color:#7c4fe0;
+	color:#222222;
 }
 
 a, a > * {
@@ -91,7 +91,7 @@ a:focus, a:hover {
 	border-top:0.8em solid rgba(35, 35, 35, 0.2);
 	border-right:0.8em solid rgba(35, 35, 35, 0.2);
 	border-bottom:0.8em solid rgba(35, 35, 35, 0.2);
-	border-left:0.8em solid #7c4fe0;
+	border-left:0.8em solid #222222;
     transform:translateZ(0);
     animation:preloader 0.7s infinite linear;
 }
@@ -137,7 +137,7 @@ header h1 {
     font-weight:400;
     font-size:24px;
 	line-height:32px;
-    color:#7c4fe0;
+    color:#222222;
 	letter-spacing:2px;
 	text-transform:uppercase;
 }
@@ -159,7 +159,7 @@ header p > strong {
 a.btn {
 	clear:both;
 	display:inline-block;
-	color:#7c4fe0;
+	color:#222222;
 	font-weight:600;
 	font-size:15px;
 	line-height:40px;
@@ -169,7 +169,7 @@ a.btn {
 	margin:5px 8px;
 	min-width:160px;
 	text-align:center;
-	border:1px solid #7c4fe0;
+	border:1px solid #222222;
 	background:transparent;
 	text-decoration:none;
 	border-radius:40px;
@@ -185,7 +185,7 @@ a.btn:hover {
 
 a.btn-colored {
 	color:#fff;
-	background:#7c4fe0;
+	background:#222222;
 }
 
 /* Screens */
@@ -457,7 +457,7 @@ a.btn-colored {
 }
 
 .feature-single:hover h5 {
-	color:#7c4fe0;
+	color:#222222;
 }
 
 /* Text */

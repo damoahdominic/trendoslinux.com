@@ -47,11 +47,11 @@ footer a:hover,
 .sidebar ul.links li a:focus,
 .author-social a:hover,
 .icon.colored i {
-	color:#7c4fe0;
+	color:#222222;
 }
 
 .fixed-menu .nav-menu li a:hover {
-	color:#7c4fe0 !important;
+	color:#222222 !important;
 }
 
 .custom-btn,
@@ -61,26 +61,26 @@ footer a:hover,
 .clients-slider .owl-dots .owl-dot span,
 .screenshot-slider .owl-dots .owl-dot span,
 .progress-heading .progress-value > span:before {
-	border-color:#7c4fe0;
+	border-color:#222222;
 }
 
 input:focus, 
 textarea:focus,
 input.notice, 
 textarea.notice {
-	border-color:#7c4fe0 !important;
+	border-color:#222222 !important;
 }
 
 .page-loader .progress {
-	border-left-color:#7c4fe0;
+	border-left-color:#222222;
 }
 
 .user-comment.bypostauthor .user-comment-inner:after {
-	border-top-color:#7c4fe0;
+	border-top-color:#222222;
 }
 
 .banner:before {
-	background:linear-gradient(-47deg, #7c4fe0 0%, #4528dc 100%);
+	background:linear-gradient(-47deg, #222222 0%, #0b95ff 100%);
 }
 
 .btn,
@@ -111,7 +111,7 @@ textarea.notice {
 .progress-heading .progress-value > span,
 .tags .tag:hover,
 blockquote {
-	background-color:#7c4fe0;
+	background-color:#222222;
 }
 
 .btn:hover,
